@@ -36,7 +36,7 @@ En el código `modo_AT_B1.ino` se encuentra el programa dedicado a la configurac
 # Diagrama de conexión 
 Conecte los diferentes dispositivos de comunicación serial y los elementos electrónicos como se muestra en el siguiente diagrama: 
 
-(https://github.com/SETISAEDU/Comunicacion-con-la-tarjeta-Teensy-3.6-y-diferentes-dispositivos/blob/master/Serial%20Teensy%203.6_bb.png?raw=true)
+![Diagrama](https://raw.githubusercontent.com/SETISAEDU/Comunicacion-con-la-tarjeta-Teensy-3.6-y-diferentes-dispositivos/master/Serial%20Teensy%203.6_bb.png)
 
 # Programando
 
