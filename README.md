@@ -36,6 +36,8 @@ En el código `modo_AT_B1.ino` se encuentra el programa dedicado a la configurac
 # Diagrama de conexión 
 Conecte los diferentes dispositivos de comunicación serial y los elementos electrónicos como se muestra en el siguiente diagrama: 
 
+[Diagrama](https://ibb.co/nmB3Ak) 
+
 # Programando
 
 El programa principal que se cargara a la Teensy 3.6 es: `Serial_Teensy.ino` y el programa secundario que se cargara al ARDUINO Mega es: `Receptores`
